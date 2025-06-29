@@ -1,0 +1,6 @@
+title: DelTech Blog
+description: A developer blog about tech, code, and tutorials
+baseurl: ""
+url: "https://deltechblog.github.io"
+theme: minima
+markdown: kramdown
